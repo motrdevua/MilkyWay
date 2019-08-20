@@ -1,0 +1,28 @@
+{
+  "name": "milkyway",
+  "displayName": "Milky Way",
+  "description": "Milky Way Dark Theme",
+  "version": "1.0.0",
+  "publisher": "motrdevua",
+  "repository": "https://github.com/motrdevua/MilkyWay",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.37.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "keywords": [
+    "milky way",
+    "theme",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [{
+      "label": "Milky Way",
+      "uiTheme": "vs-dark",
+      "path": "./themes/milkyway.json"
+    }]
+  }
+}
