@@ -19,4 +19,8 @@ Launch _Quick Open_,
 
 Type `theme` and choose `Preferences: Color Theme`, then select "Milky Way" from the list.
 
+This theme for:
+- [mac os terminal](https://gist.github.com/motrdevua/65e05c39a9465dbf112bec231e8e76e1)
+- [iTerm2](https://gist.github.com/motrdevua/30c55743f62041e33c22803d6820ed4c)
+
 **Enjoy!**
